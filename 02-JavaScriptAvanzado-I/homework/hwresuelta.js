@@ -71,7 +71,7 @@ console.log(pm); // Franco
 
 
 
-console.log(6 / "3") // 2
+console.log(6 / "3") // 2.
 console.log("2" * "3") // 6
 console.log(4 + 5 + "px") // 9px
 console.log("$" + 4 + 5) // $45
