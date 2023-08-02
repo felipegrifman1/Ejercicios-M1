@@ -8,7 +8,7 @@ function BinarioADecimal(num) {
    for (let i = 0; i < numeroFinal.length; i++){
       numero = numero + numeroFinal[i] * 2 ** i;
    }
-   return numero;
+   return numero
 }
 
 function DecimalABinario(num) {

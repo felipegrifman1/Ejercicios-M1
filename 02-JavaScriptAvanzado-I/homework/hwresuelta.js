@@ -65,7 +65,7 @@ if (true) {
    console.log(instructor); // The Flash
    console.log(pm); // Reverse Flash
 }
-console.log(instructor);  // The Flash (Queda el valor de Flash por estar con la variable 'var'.)
+console.log(instructor);  // The Flash (Queda el valor de Flash por estar con la variable 'var'.).
 console.log(pm); // Franco
 
 
